@@ -1,0 +1,17 @@
+body{
+    background-color:black ;
+}
+.div{
+    border: 5px solid white;
+    width: 720px;
+    height: 720px;
+    margin-left: 20%;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h5{
+    color: white;
+    text-align: center;
+}
